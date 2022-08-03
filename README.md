@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Stéphane%20Kuma-blue?style=social&logo=linkedin&labelColor=blue" />
   </a>
   <a href="mailto:kumastephane@gmail.com?">
-    <img src="https://img.shields.io/badge/kumastephane%40gmail.com-red?&style=social&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/kumastephane%40gmail.com-red?&style=social&logo=gmail&logoColor=red"/>
   </a>
 </p>
 
