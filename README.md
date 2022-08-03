@@ -13,6 +13,9 @@
   <a href="mailto:kumastephane@gmail.com?">
     <img src="https://img.shields.io/badge/kumastephane%40gmail.com-red?&style=flat&logo=gmail&logoColor=white"/>
   </a>
+  <a href="tel:22893413639?">
+    <img src="https://img.shields.io/badge/phone-green?&style=flat&logo=phone&logoColor=white"/>
+  </a>
 </p>
 
 <!--
