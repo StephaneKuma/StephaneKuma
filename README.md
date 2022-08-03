@@ -4,6 +4,8 @@
 
 <h3 align="center">Hey there, I'm <a href="https://www.linkedin.com/in/st%C3%A9phane-kuma-930696188/">Stéphane Kuma</a> - aka Stekos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
+## About me
+
 - 💻 I'm a fullstack developer
 - 🔭 I’m currently working on STK SMS project
 - 🌱 I’m currently learning and perfecting my knowledge of Flutter
@@ -12,7 +14,7 @@
 - 📫 You can reach me directly on <a href="https://wa.me/22893413639">WhatsApp</a>
 
 
-### Contact me
+## Contact me
 
 <p>
   <a href="https://www.linkedin.com/in/st%C3%A9phane-kuma-930696188/">
@@ -27,7 +29,7 @@
 </p>
 
 
-#### Languages
+## Languages
 
 ![HTML](https://img.shields.io/badge/HTML-red?style=flat&logo=html&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-red?style=flat&logo=css&logoColor=white)
@@ -38,7 +40,7 @@
 ![Java](https://img.shields.io/badge/Java-blue?style=flat&logo=html&logoColor=white)
 
 
-### Frameworks
+## Frameworks
 
 ![Laravel](https://img.shields.io/badge/Laravel-red?style=flat&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-green?style=flat&logo=vue.js&logoColor=white)
@@ -46,7 +48,7 @@
 ![Django](https://img.shields.io/badge/Django-green?style=flat&logo=django&logoColor=white)
 
 
-### My skills 😛
+## My skills 😛
 
 ![](https://github-readme-stats.vercel.app/api?username=StephaneKuma&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=StephaneKuma&theme=dark&hide_border=true)<br/>
