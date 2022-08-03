@@ -25,6 +25,13 @@
 ![Dart](https://img.shields.io/badge/Dart-blue?style=flat&logo=html&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-blue?style=flat&logo=html&logoColor=white)
 
+### Frameworks
+
+![Laravel](https://img.shields.io/badge/Laravel-red?style=flat&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-green?style=flat&logo=vue.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-blue?style=flat&logo=html&logoColor=white)
+![Django](https://img.shields.io/badge/Django-green?style=flat&logo=django&logoColor=white)
+
 ### My skills 😛
 
 ![](https://github-readme-stats.vercel.app/api?username=StephaneKuma&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
