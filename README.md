@@ -1,8 +1,11 @@
 ### Hi there 👋
 
+### I'm Stéphane Kuma, or Stekos for friends. I'm a Fullstack developer 
+
 - 🔭 I’m currently working on STK SMS project
 - 🌱 I’m currently learning and perfecting my knowledge of Flutter
 - 👯 I’m looking to collaborate on all types of projects that could broaden my horizon
+- 💬 Ask me about: ![Laravel](https://img.shields.io/badge/Laravel-red?style=flat&logo=laravel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-blue?style=flat&logo=html&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-red?style=flat&logo=html&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-red?style=flat&logo=css&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-blue?style=flat&logo=php&logoColor=white)
 
 ### Contact me
 
