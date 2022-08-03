@@ -17,13 +17,13 @@
 
 #### Languages
 
-![HTML](https://img.shields.io/badge/HTML-red?style=flat&logo=html&logoColor=red)
-![CSS](https://img.shields.io/badge/CSS-red?style=flat&logo=css&logoColor=red)
-![JS](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=yellow)
-![PHP](https://img.shields.io/badge/PHP-blue?style=flat&logo=php&logoColor=blue)
-![Python](https://img.shields.io/badge/Python-yellow?style=flat&logo=html&logoColor=yellow)
-![Dart](https://img.shields.io/badge/Dart-blue?style=flat&logo=html&logoColor=blue)
-![Java](https://img.shields.io/badge/Java-blue?style=flat&logo=html&logoColor=blue)
+![HTML](https://img.shields.io/badge/HTML-red?style=flat&logo=html&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-red?style=flat&logo=css&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-blue?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-yellow?style=flat&logo=html&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-blue?style=flat&logo=html&logoColor=white)
+![Java](https://img.shields.io/badge/Java-blue?style=flat&logo=html&logoColor=white)
 
 ### My skills 😛
 
