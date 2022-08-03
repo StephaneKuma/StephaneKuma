@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning and perfecting my knowledge of Flutter
 - 👯 I’m looking to collaborate on all types of projects that could broaden my horizon
 - 💬 Ask me about: ![Laravel](https://img.shields.io/badge/Laravel-red?style=flat&logo=laravel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-blue?style=flat&logo=html&logoColor=white) 
-- 📫 How can contact me on <a href="https://wa.me/22893413639">WhatsApp</a>
+- 📫 You can reach me directly on <a href="https://wa.me/22893413639">WhatsApp</a>
 
 
 ### Contact me
@@ -17,6 +17,9 @@
   </a>
   <a href="mailto:kumastephane@gmail.com?">
     <img src="https://img.shields.io/badge/kumastephane%40gmail.com-red?&style=social&logo=gmail&logoColor=red"/>
+  </a>
+  <a href="https://wa.me/22893413639">
+    <img src="https://img.shields.io/badge/WhatsApp-green?&style=social&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
