@@ -8,13 +8,10 @@
 
 <p>
   <a href="https://www.linkedin.com/in/st%C3%A9phane-kuma-930696188/">
-    <img src="https://img.shields.io/badge/Stéphane%20Kuma-blue?style=flat&logo=linkedin&labelColor=blue" />
+    <img src="https://img.shields.io/badge/Stéphane%20Kuma-blue?style=social&logo=linkedin&labelColor=blue" />
   </a>
   <a href="mailto:kumastephane@gmail.com?">
-    <img src="https://img.shields.io/badge/kumastephane%40gmail.com-red?&style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="tel:22893413639?">
-    <img src="https://img.shields.io/badge/phone-green?&style=flat&logo=phone&logoColor=white"/>
+    <img src="https://img.shields.io/badge/kumastephane%40gmail.com-red?&style=social&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
