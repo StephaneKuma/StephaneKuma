@@ -6,8 +6,8 @@
 
 ### Contact me
 
-<p align="center">
-<a href="LinkedIn profile URL">
+<p>
+<a href="https://www.linkedin.com/in/st%C3%A9phane-kuma-930696188/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" />
 </a>
 </p>
