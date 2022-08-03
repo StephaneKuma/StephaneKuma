@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-### I'm Stéphane Kuma, or Stekos for friends. I'm a Fullstack developer 
+### I'm Stéphane Kuma, or Stekos for friends. I'm a Fullstack developer
+### Computer buff, I master the different technical stages of creating an application, from understanding user needs to development.
 
 - 🔭 I’m currently working on STK SMS project
 - 🌱 I’m currently learning and perfecting my knowledge of Flutter
