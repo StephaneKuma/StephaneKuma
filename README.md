@@ -7,9 +7,11 @@
 ### Contact me
 
 <p>
-<a href="https://www.linkedin.com/in/st%C3%A9phane-kuma-930696188/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" />
-</a>
+  <a href="https://www.linkedin.com/in/st%C3%A9phane-kuma-930696188/">
+    <img src="https://img.shields.io/badge/StéphaneKuma-blue?style=flat&logo=linkedin&labelColor=blue" />
+  </a>
+  <a href="mailto:kumastephane@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 <!--
