@@ -1,11 +1,10 @@
 <p align="center">
-  <a href="#"><img width="70%" height="auto" src="programming.svg" height="175px"/></a>
+  <a href="#"><img width="60%" height="auto" src="programming.svg"/></a>
 </p>
 
-<h3 align="center">Hey there, I'm <a href="">Stéphane Kuma</a> - aka Stekos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<h3 align="center">Hey there, I'm <a href="https://www.linkedin.com/in/st%C3%A9phane-kuma-930696188/">Stéphane Kuma</a> - aka Stekos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
-### Computer buff, I master the different technical stages of creating an application, from understanding user needs to development.
-
+- 💻 I'm a fullstack developer
 - 🔭 I’m currently working on STK SMS project
 - 🌱 I’m currently learning and perfecting my knowledge of Flutter
 - 👯 I’m looking to collaborate on all types of projects that could broaden my horizon
