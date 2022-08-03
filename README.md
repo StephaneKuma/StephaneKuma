@@ -5,7 +5,9 @@
 - 🔭 I’m currently working on STK SMS project
 - 🌱 I’m currently learning and perfecting my knowledge of Flutter
 - 👯 I’m looking to collaborate on all types of projects that could broaden my horizon
-- 💬 Ask me about: ![Laravel](https://img.shields.io/badge/Laravel-red?style=flat&logo=laravel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-blue?style=flat&logo=html&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-red?style=flat&logo=html&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-red?style=flat&logo=css&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-blue?style=flat&logo=php&logoColor=white)
+- 💬 Ask me about: ![Laravel](https://img.shields.io/badge/Laravel-red?style=flat&logo=laravel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-blue?style=flat&logo=html&logoColor=white) 
+- 📫 How can contact me on <a href="https://wa.me/22893413639">WhatsApp</a>
+
 
 ### Contact me
 
@@ -18,6 +20,7 @@
   </a>
 </p>
 
+
 #### Languages
 
 ![HTML](https://img.shields.io/badge/HTML-red?style=flat&logo=html&logoColor=white)
@@ -28,12 +31,14 @@
 ![Dart](https://img.shields.io/badge/Dart-blue?style=flat&logo=html&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-blue?style=flat&logo=html&logoColor=white)
 
+
 ### Frameworks
 
 ![Laravel](https://img.shields.io/badge/Laravel-red?style=flat&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-green?style=flat&logo=vue.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-blue?style=flat&logo=html&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-green?style=flat&logo=django&logoColor=white)
+
 
 ### My skills 😛
 
