@@ -1,3 +1,5 @@
+<a href="#"><img width="100%" height="auto" src="programming.svg" height="175px"/></a>
+
 ### Hi there 👋
 
 ### I'm Stéphane Kuma, or Stekos for friends. I'm a Fullstack developer
