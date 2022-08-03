@@ -1,8 +1,9 @@
-<a href="#"><img width="100%" height="auto" src="programming.svg" height="175px"/></a>
+<p align="center">
+  <a href="#"><img width="70%" height="auto" src="programming.svg" height="175px"/></a>
+</p>
 
-### Hi there 👋
+<h3 align="center">Hey there, I'm <a href="">Stéphane Kuma</a> - aka Stekos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
-### I'm Stéphane Kuma, or Stekos for friends. I'm a Fullstack developer
 ### Computer buff, I master the different technical stages of creating an application, from understanding user needs to development.
 
 - 🔭 I’m currently working on STK SMS project
